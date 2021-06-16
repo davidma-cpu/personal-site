@@ -12,11 +12,11 @@ $( document ).ready(function() {
     })
 
     $(".reading-list-app").click(function() {
-        window.location.href = "https://mighty-shore-93875.herokuapp.com";
+        window.location.href = "https://journalnewapp.herokuapp.com/";
     })
 
     $(".reading-list-github").click(function() {
-        window.location.href = "https://github.com/davidma-cpu/react-reading-list";
+        window.location.href = "https://github.com/davidma-cpu/diary-app";
     })
 
     $(".commandline-github").click(function() {
@@ -33,6 +33,14 @@ $( document ).ready(function() {
 
     $(".bikeshare-github").click(function() {
         window.location.href = "https://github.com/davidma-cpu/bikeshare";
+    })
+
+    $(".raptors-app").click(function() {
+        window.location.href = "https://clickgame-raptors.herokuapp.com/";
+    })
+
+    $(".raptors-github").click(function() {
+        window.location.href = "https://github.com/davidma-cpu/clicky-game";
     })
 
     
